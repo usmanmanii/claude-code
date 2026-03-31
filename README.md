@@ -2,6 +2,7 @@
 
 # NOTE: I'm not working on this repo, this is the original source. Fork is at https://github.com/dnakov/anon-kode
 
+# check this link for details : https://www.reddit.com/r/ClaudeAI/comments/1s8ifm6/claude_code_source_code_has_been_leaked_via_a_map/
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square)
 
